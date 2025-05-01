@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Priya Pandit! 👋
 
-<!--
-**pkp3302/pkp3302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Data Scientist and Machine Learning enthusiast**, currently exploring and building projects in **Machine Learning**, **Data Science**, **Artificial Intelligence**, and **Operations Research**. I hold an **M.Tech in Industrial and Management Engineering** from **IIT Kanpur**. I thrive on solving complex problems, optimizing systems, and applying technology to real-world challenges. Always eager to learn and innovate, I continuously strive to expand my knowledge and skills in emerging tech.
 
-Here are some ideas to get you started:
+### Skills & Technologies:
+- **Languages**: Python, SQL
+- **Tools & Libraries**: Pandas, Numpy, OpenCV, TensorFlow, Keras, Scikit-learn, etc
+- **Areas of Interest**: Machine Learning, Deep Learning, Data Science, Natural Language Processing (NLP), Operations Research, Optimization, Reinforcement Learning
+  
+### Contact:
+Feel free to connect with me for collaboration, discussion, or if you have any questions!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email**: priyapandit3302@gmail.com
+- **LinkedIn**: www.linkedin.com/in/priya-pandit-738990200
+
